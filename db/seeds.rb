@@ -7,10 +7,10 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 
-Country.create!(name: "SleepyLand", population: 1, flag: "http://pleated-jeans.com/wp-content/uploads/2013/03/exblog-jp-1.jpg", first_lang: "english", president: "Me")
+Country.create!(name: "England", population: 2, flag: "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/1200px-Flag_of_England.svg.png", first_lang: "what do you think", president: "Me i wish")
 
-Country.create!(name: "FunkyTown", population: 4000000, flag: "https://images.genius.com/de3d636ddf89f070602c04a41436fb2d.550x547x1.jpg", first_lang: "english", president: "LIPPS INC")
+Country.create!(name: "Frogs Legs Country", population: 4, flag: "https://pbs.twimg.com/profile_images/1298643948/FranceFlag_svg.png", first_lang: "french i believe", president: "Wanker that didnt shake trumps hand, MAKE AMERICA GREAT AGAIN!!")
 
-Country.create!(name: "Beep", population: 1000010, flag: "https://i.ytimg.com/vi/jklPXWVY718/maxresdefault.jpg", first_lang: "english", president: "Beepy McBeepFace")
+Country.create!(name: "catalonia they wish lol", population: 5, flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Estelada_blava.svg/255px-Estelada_blava.svg.png", first_lang: "spainsh even though they dont want it to be", president: "No one cares you suck")
 
 puts "Finished Seed...."
